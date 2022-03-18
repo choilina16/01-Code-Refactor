@@ -89,6 +89,7 @@ p {
     background-color: #2589bd;
 }
 
+/* aside */
 /* Combining classes so css file is more concise*/
 .benefit-icons {
     margin-bottom: 32px;
@@ -106,6 +107,7 @@ p {
     max-width: 150px;
 }
 
+/* main */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,6 +126,7 @@ p {
     font-size: 36px;
 }
 
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
